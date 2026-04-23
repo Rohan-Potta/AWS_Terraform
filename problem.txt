@@ -1,0 +1,4 @@
+1. You delete the statefile
+2. Handling multiple enviournments
+3. you delete a resource on the ui and not in terrafrom (states miss-match)
+4. State Locks
